@@ -6,5 +6,5 @@
 
 using System.Reflection;
 
-[assembly: AssemblyTitle("Application.Core")]
-[assembly: AssemblyDescription("Application Core Library")]
+[assembly: AssemblyTitle("Application.Core.UnitTests")]
+[assembly: AssemblyDescription("Application Core Library Unit Tests")]

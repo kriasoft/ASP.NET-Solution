@@ -3,19 +3,40 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{40603956-509F-4CD8-BB08-85AE4C96A173}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".settings", ".settings", "{40603956-509F-4CD8-BB08-85AE4C96A173}"
 	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
 		Gruntfile.js = Gruntfile.js
+		LICENSE.txt = LICENSE.txt
 		package.json = package.json
+		README.md = README.md
+		Settings.StyleCop = Settings.StyleCop
 	EndProjectSection
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{29BEEA8C-9D90-4E50-AA20-5DE3320BFC9B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Common", "Common", "{37D6074B-5A78-4FD3-A6FE-358C4ED7C445}"
+	ProjectSection(SolutionItems) = preProject
+		src\Common\CommonAssemblyInfo.cs = src\Common\CommonAssemblyInfo.cs
+	EndProjectSection
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "src\Core\Core.csproj", "{BCA6EBDE-298A-4D67-96A5-FDC5EABAB2F6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "src\Web\Web.csproj", "{A62CD791-9589-4FE1-A715-7425585086FA}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{3290487C-16E2-4FD5-9C79-07C7F36D7F0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core.UnitTests", "test\Core.UnitTests\Core.UnitTests.csproj", "{7AF42AA2-80AA-42CE-83FC-AA51555A587B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web.UnitTests", "test\Web.UnitTests\Web.UnitTests.csproj", "{89744311-A7B2-43DD-8A80-5A96933E92D1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tools", "tools", "{5DD3DEFF-BC94-4C36-B7F5-EFC8438DA8E6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NuGet", "NuGet", "{38D71A9D-0D63-464F-8A32-273E6080B24F}"
+	ProjectSection(SolutionItems) = preProject
+		tools\NuGet\NuGet.exe = tools\NuGet\NuGet.exe
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -31,12 +52,24 @@ Global
 		{A62CD791-9589-4FE1-A715-7425585086FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A62CD791-9589-4FE1-A715-7425585086FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A62CD791-9589-4FE1-A715-7425585086FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AF42AA2-80AA-42CE-83FC-AA51555A587B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AF42AA2-80AA-42CE-83FC-AA51555A587B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AF42AA2-80AA-42CE-83FC-AA51555A587B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AF42AA2-80AA-42CE-83FC-AA51555A587B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89744311-A7B2-43DD-8A80-5A96933E92D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89744311-A7B2-43DD-8A80-5A96933E92D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89744311-A7B2-43DD-8A80-5A96933E92D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89744311-A7B2-43DD-8A80-5A96933E92D1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
+		{37D6074B-5A78-4FD3-A6FE-358C4ED7C445} = {29BEEA8C-9D90-4E50-AA20-5DE3320BFC9B}
 		{BCA6EBDE-298A-4D67-96A5-FDC5EABAB2F6} = {29BEEA8C-9D90-4E50-AA20-5DE3320BFC9B}
 		{A62CD791-9589-4FE1-A715-7425585086FA} = {29BEEA8C-9D90-4E50-AA20-5DE3320BFC9B}
+		{7AF42AA2-80AA-42CE-83FC-AA51555A587B} = {3290487C-16E2-4FD5-9C79-07C7F36D7F0E}
+		{89744311-A7B2-43DD-8A80-5A96933E92D1} = {3290487C-16E2-4FD5-9C79-07C7F36D7F0E}
+		{38D71A9D-0D63-464F-8A32-273E6080B24F} = {5DD3DEFF-BC94-4C36-B7F5-EFC8438DA8E6}
 	EndGlobalSection
 EndGlobal
