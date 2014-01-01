@@ -35,7 +35,7 @@
       </Rules>
       <AnalyzerSettings>
         <StringProperty Name="CompanyName">KriaSoft LLC</StringProperty>
-        <StringProperty Name="Copyright">Copyright © 2013 Konstantin Tarkus, KriaSoft LLC. See LICENSE.txt</StringProperty>
+        <StringProperty Name="Copyright">Copyright © 2014 Konstantin Tarkus, KriaSoft LLC. See LICENSE.txt</StringProperty>
       </AnalyzerSettings>
     </Analyzer>
   </Analyzers>
