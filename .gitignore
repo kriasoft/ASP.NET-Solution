@@ -165,6 +165,9 @@ App_Data/*.ldf
 # Microsoft Fakes
 FakesAssemblies/
 
+# Web Essentials Auto-generated Files
+README.html
+
 # =========================
 # Windows detritus
 # =========================
