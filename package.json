@@ -1,7 +1,7 @@
 {
-  "name": "ASP.NET Single-page Application",
-  "description": "ASP.NET SPA Solution Template for Visual Studio",
-  "repository": "https://github.com/KriaSoft/AspNet-SPA-Template",
+  "name": "ASP.NET Web Application",
+  "description": "ASP.NET Solution Template for Visual Studio",
+  "repository": "https://github.com/KriaSoft/ASP.NET-Solution",
   "devDependencies": {
     "phantomjs" : "~1.9",
     "karma" : "~0.10",
