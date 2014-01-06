@@ -1,11 +1,12 @@
 ## ASP.NET Solution
 
 This project is a skeleton for a simple ASP.NET web application solution for Visual Studio. You can use it to quickly
-bootstrap your web application projects and dev environment.
+bootstrap your web application projects and dev environment. It's pre-configured with Git, Node.js, Grunt.js, NuGet and
+StyleCope development tools.
 
 ### Source Code
 
-https://github.com/KriaSoft/AspNetSolution
+https://github.com/KriaSoft/ASP.NET-Solution
 
 ### Credits
 
