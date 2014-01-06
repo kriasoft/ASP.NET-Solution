@@ -1,8 +1,7 @@
-## ASP.NET Solution
+## ASP.NET Solution Template
 
-This project is a skeleton for a simple ASP.NET web application solution for Visual Studio. You can use it to quickly
-bootstrap your web application projects and dev environment. It's pre-configured with Git, Node.js, Grunt.js, NuGet and
-StyleCope development tools.
+A solution template for a typical ASP.NET web application, pre-configured with Git, Node.js, Grunt.js, Bower, NuGet
+and StyleCope development tools.
 
 [![ASP.NET Solution Template](http://i.imgur.com/OEENneg.png)](http://visualstudiogallery.msdn.microsoft.com/359f4304-57d7-4178-9cab-165e2090dce2)
 
