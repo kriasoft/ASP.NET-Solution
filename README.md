@@ -20,7 +20,7 @@ Brought to you by [Konstantin Tarkus](http://tarkus.me) ([@koistya](https://ange
 ### License
 
 This project is licensed under the **Apache License 2.0**. Refer to
-[LICENSE.txt](https://github.com/KriaSoft/AspNetSolution/blob/master/LICENSE.txt) for more information.
+[LICENSE.txt](https://github.com/KriaSoft/ASP.NET-Solution/blob/master/LICENSE.txt) for more information.
 
 ### Feedback
 
