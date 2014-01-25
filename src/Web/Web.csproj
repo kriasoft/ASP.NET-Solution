@@ -67,15 +67,40 @@
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Scripts\vendor\jquery-1.10.2.js" />
+    <Content Include="Scripts\vendor\jquery-1.10.2.min.js" />
+    <Content Include="Scripts\vendor\jquery-1.10.2.min.map" />
+    <Content Include="Scripts\vendor\modernizr-2.7.1.js" />
+    <Content Include="Scripts\vendor\modernizr-2.7.1.min.js" />
+    <None Include="Scripts\_references.js" />
+    <Content Include="Scripts\app.js" />
+    <Content Include="Styles\app.less" />
+    <Content Include="Styles\base.less" />
+    <Content Include="Styles\custom.less" />
+    <Content Include="Styles\forms.less" />
+    <Content Include="Styles\normalize.less" />
+    <Content Include="Styles\print.less" />
+    <Content Include="Styles\responsive.less" />
+    <Content Include="Styles\utilities.less" />
+    <Content Include="404.html" />
+    <Content Include="apple-touch-icon-precomposed.png" />
+    <Content Include="crossdomain.xml" />
+    <Content Include="favicon.ico" />
+    <Content Include="humans.txt" />
+    <Content Include="robots.txt" />
+    <Content Include="index.html" />
     <Content Include="Web.config" />
-  </ItemGroup>
-  <ItemGroup>
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
     <None Include="Web.Release.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Fonts\" />
+    <Folder Include="Images\" />
+    <Folder Include="Views\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

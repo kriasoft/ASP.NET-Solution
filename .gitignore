@@ -181,3 +181,7 @@ Desktop.ini
 
 # Recycle Bin used on file shares
 $RECYCLE.BIN/
+
+# Auto-compiled files
+src/Web/js
+src/Web/css

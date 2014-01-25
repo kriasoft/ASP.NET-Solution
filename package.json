@@ -3,10 +3,12 @@
   "description": "ASP.NET Solution Template for Visual Studio",
   "repository": "https://github.com/KriaSoft/ASP.NET-Solution",
   "devDependencies": {
-    "grunt": "~0.4.2",
-    "grunt-contrib-concat": "~0.3.0",
-    "grunt-contrib-jshint": "~0.8.0",
-    "grunt-contrib-uglify": "~0.2.7",
-    "grunt-contrib-watch": "~0.5.3"
+    "gulp": "~3.4.0",
+    "gulp-clean": "~0.2.4",
+    "gulp-concat": "~2.1.7",
+    "gulp-less": "~1.1.10",
+    "gulp-recess": "~0.1.0",
+    "gulp-rename": "~0.2.2",
+    "gulp-uglify": "~0.1.0"
   }
 }
