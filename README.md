@@ -38,11 +38,12 @@ https://github.com/KriaSoft/ASP.NET-Solution
 
 ### Credits
 
-Brought to you by [Konstantin Tarkus](http://tarkus.me) ([@koistya](https://angel.co/koistya)), [KriaSoft](http://www.kriasoft.com).
+Brought to you by [Konstantin Tarkus](http://tarkus.me) ([@koistya](https://angel.co/koistya)),
+[KriaSoft](http://www.kriasoft.com), [HTML5 Boilerplate](http://html5boilerplate.com/).
 
 ### License
 
-This project is licensed under the **Apache License 2.0**. Refer to
+This project is licensed under the **MIT License**. Refer to
 [LICENSE.txt](https://github.com/KriaSoft/ASP.NET-Solution/blob/master/LICENSE.txt) for more information.
 
 ### Feedback
