@@ -36,6 +36,11 @@ For more information, please visit: https://github.com/KriaSoft/ASP.NET-Solution
 
 https://github.com/KriaSoft/ASP.NET-Solution
 
+### Related Resources
+
+* [Can I benefit from Grunt for my Visual Studio based development](http://joeriks.com/2013/08/06/can-i-benefit-from-grunt-for-my-visual-studio-based-web-development/)
+* [How to setup NuGet package restore on a build server](http://docs.nuget.org/docs/reference/package-restore-with-team-build)
+
 ### Credits
 
 Brought to you by [Konstantin Tarkus](http://tarkus.me) ([@koistya](https://angel.co/koistya)),
