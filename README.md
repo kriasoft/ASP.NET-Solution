@@ -1,7 +1,8 @@
 ## ASP.NET Solution Template
 
-A solution template for a typical ASP.NET web application, pre-configured with Git, Node.js, Grunt.js, Bower, NuGet
-and StyleCope development tools. It is well suited for building a single-page web application (SPA).
+A solution template for a typical ASP.NET web application, pre-configured with [Git](http://git-scm.com/),
+[Gulp.js](http://gulpjs.com/), [NuGet](http://www.nuget.org/) and [StyleCope](http://stylecop.codeplex.com/)
+development tools. It is well suited for building a single-page web application (SPA).
 
 [![ASP.NET Solution Template](http://i.imgur.com/OEENneg.png)](http://visualstudiogallery.msdn.microsoft.com/359f4304-57d7-4178-9cab-165e2090dce2)
 
