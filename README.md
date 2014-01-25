@@ -28,6 +28,10 @@ gulp                    # Fires up Gulp.js task runner with default settings
 
 For more information, please visit: https://github.com/KriaSoft/ASP.NET-Solution/wiki
 
+### Directory Layout
+
+![ASP.NET Solution Directory Layout](http://i.imgur.com/c8H18GL.png)
+
 ### Source Code
 
 https://github.com/KriaSoft/ASP.NET-Solution
