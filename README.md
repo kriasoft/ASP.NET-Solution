@@ -1,7 +1,7 @@
 ## ASP.NET Solution Template
 
 A solution template for a typical ASP.NET web application, pre-configured with [Git](http://git-scm.com/),
-[Gulp.js](http://gulpjs.com/), [NuGet](http://www.nuget.org/) and [StyleCope](http://stylecop.codeplex.com/)
+[Gulp.js](http://gulpjs.com/) (or Grunt), [NuGet](http://www.nuget.org/) and [StyleCope](http://stylecop.codeplex.com/)
 development tools. It is well suited for building a single-page web application (SPA).
 
 [![ASP.NET Solution Template](http://i.imgur.com/OEENneg.png)](http://visualstudiogallery.msdn.microsoft.com/359f4304-57d7-4178-9cab-165e2090dce2)
@@ -36,10 +36,11 @@ For more information, please visit: https://github.com/KriaSoft/ASP.NET-Solution
 
 https://github.com/KriaSoft/ASP.NET-Solution
 
-### Related Resources
+### Related Articles
 
-* [Can I benefit from Grunt for my Visual Studio based development](http://joeriks.com/2013/08/06/can-i-benefit-from-grunt-for-my-visual-studio-based-web-development/)
-* [How to setup NuGet package restore on a build server](http://docs.nuget.org/docs/reference/package-restore-with-team-build)
+* [Grunt your ASP.NET builds](http://blog.simontimms.com/2013/12/30/grunt-your-asp-net-builds/) by Simon Timms
+* [Can I benefit from Grunt for my Visual Studio based development](http://joeriks.com/2013/08/06/can-i-benefit-from-grunt-for-my-visual-studio-based-web-development/) by Jonas Eriksson
+* [How to setup NuGet package restore on a build server](http://docs.nuget.org/docs/reference/package-restore-with-team-build) NuGet Docs
 
 ### Credits
 
