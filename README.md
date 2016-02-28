@@ -15,8 +15,8 @@ http://visualstudiogallery.msdn.microsoft.com/359f4304-57d7-4178-9cab-165e2090dc
 After you create a new project, open Node.js Command Window, navigate to your project's folder, and run:
 
 ```bash
-node install -g gulp    # Install Gulp.js globally, if you don't have it installed already
-node install            # Install Node.js dev tools listed in the package.json file
+npm install -g gulp    # Install Gulp.js globally, if you don't have it installed already
+npm install            # Install Node.js dev tools listed in the package.json file
 ```
 
 `gulpfile.js` contains default settings for LESS and JavaScript build automation, in order to start a new build
